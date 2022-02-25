@@ -1,6 +1,7 @@
 # weatherapp
-
-A new Flutter project.
+ I created this Weather application using OpenWeather API and GetX state management.
+# weatherapp
+![Weather App](https://user-images.githubusercontent.com/81378260/155659009-9e52c536-5b2f-497f-800b-58a9b482a48d.png)
 
 ## Getting Started
 
